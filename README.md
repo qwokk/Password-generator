@@ -25,4 +25,4 @@
 #### 2.Откройте файл index.html в любом современном браузере.
 
 # Результат 
-
+![Screenshot](img/screenshot.png)
