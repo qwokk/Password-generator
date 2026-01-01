@@ -29,7 +29,6 @@ body {
 
 .input-box {
     display: flex;
-    align-items: center;
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
